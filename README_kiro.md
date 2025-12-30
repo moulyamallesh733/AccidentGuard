@@ -1,0 +1,1 @@
+Backend logic for accident detection and alert handling was delevoped using Kiro IDE during HAckXios Hackathon
